@@ -1,0 +1,38 @@
+{
+    "BallFinder": {
+        "checkpoints": [
+            {
+                "steps": 499977,
+                "file_path": "results\\BallFinder02\\BallFinder\\BallFinder-499977.onnx",
+                "reward": null,
+                "creation_time": 1689737166.2174044,
+                "auxillary_file_paths": [
+                    "results\\BallFinder02\\BallFinder\\BallFinder-499977.pt"
+                ]
+            },
+            {
+                "steps": 500041,
+                "file_path": "results\\BallFinder02\\BallFinder\\BallFinder-500041.onnx",
+                "reward": null,
+                "creation_time": 1689737166.271835,
+                "auxillary_file_paths": [
+                    "results\\BallFinder02\\BallFinder\\BallFinder-500041.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500041,
+            "file_path": "results\\BallFinder02\\BallFinder.onnx",
+            "reward": null,
+            "creation_time": 1689737166.271835,
+            "auxillary_file_paths": [
+                "results\\BallFinder02\\BallFinder\\BallFinder-500041.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.10.1+cu113"
+    }
+}
